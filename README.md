@@ -2,7 +2,7 @@
 
 <p align="center">
 🚀 <strong>BTech CSE | Full Stack Developer | ML Beginner</strong><br>
-Second-year Computer Science student passionate about real-world projects, full-stack development, and exploring machine learning.
+third-year Computer Science student passionate about real-world projects, full-stack development, and exploring machine learning.
 </p>
 
 ---
